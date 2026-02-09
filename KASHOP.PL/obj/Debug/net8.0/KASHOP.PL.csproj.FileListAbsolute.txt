@@ -148,3 +148,4 @@ C:\API\KASHOP\KASHOP.PL\bin\Debug\net8.0\ar\KASHOP.PL.resources.dll
 C:\API\KASHOP\KASHOP.PL\obj\Debug\net8.0\ar\KASHOP.PL.resources.dll
 C:\API\KASHOP\KASHOP.PL\bin\Debug\net8.0\Mapster.dll
 C:\API\KASHOP\KASHOP.PL\bin\Debug\net8.0\Mapster.Core.dll
+C:\API\KASHOP\KASHOP.PL\obj\Debug\net8.0\KASHOP.PL.sourcelink.json
